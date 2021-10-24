@@ -6,3 +6,5 @@ apache-airflow-providers-apache-spark==2.0.1
 elasticsearch>=5.0.0,<6.0.0
 apache-airflow-providers-postgres>=2.1.0
 requests
+boto3===1.19.2
+paramiko===2.8.0
